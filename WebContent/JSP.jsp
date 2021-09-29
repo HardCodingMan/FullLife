@@ -7,9 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<<<<<<< HEAD:WebContent/JSP.jsp
+QQQQ
+=======
 	testtesttesttesttesttesttesttesttest
 
-
+>>>>>>> origin/JaeWon:WebContent/kang.html
 </body>
 </html>
