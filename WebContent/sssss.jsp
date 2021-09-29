@@ -8,6 +8,5 @@
 </head>
 <body>
 	<h1>DDDFEWEFEWFEWF</h1>
-	<h2>솔미가 수정함</h2>
 </body>
 </html>
