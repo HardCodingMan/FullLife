@@ -8,7 +8,10 @@
 </head>
 <body>
 	<h1>DDDFEWEFEWFEWF</h1>
+<<<<<<< HEAD
 	<h2>솔미가 수정함</h2>
 	<h2>혜정이가 수정함</h2>
+=======
+>>>>>>> parent of e606388 (테스트)
 </body>
 </html>
